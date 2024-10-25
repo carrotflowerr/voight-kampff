@@ -1,6 +1,6 @@
 # Voight Kampff
 
-||| Currently unedited. |||
+||| Code is currently unedited. |||
 
 Voight Kampff will aim to be a crowd sourced ai detector. You will be able to mark text/image as ai generated for others to see, and vice versa.  
 
